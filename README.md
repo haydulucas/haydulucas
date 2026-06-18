@@ -4,8 +4,6 @@
 
 Olá, eu sou Lucas Braga Haydú 
 
-🚀 Sobre mim
-
 Sou estudante do 4º semestre de Engenharia de Software, apaixonado por tecnologia e desenvolvimento.
 
 Atualmente, estou em processo de transição de carreira da área da educação para a tecnologia, trazendo comigo habilidades desenvolvidas ao longo da experiência como professor, como comunicação, didática, resolução de problemas e trabalho em equipe.
